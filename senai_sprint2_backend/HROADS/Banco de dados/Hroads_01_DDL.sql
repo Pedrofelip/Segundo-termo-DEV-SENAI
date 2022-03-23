@@ -1,0 +1,38 @@
+CREATE DATABASE SENAI_HROADS_MANHA;
+USE SENAI_HROADS_MANHA;
+
+CREATE TABLE TiposDeHabilidades
+(
+	IdTipo	INT PRIMARY KEY IDENTITY,
+	Nome	VARCHAR(200) NOT NULL
+);
+
+CREATE TABLE Habilidades
+(
+	IdHabilidade	INT PRIMARY KEY IDENTITY,
+	IdTipo			INT FOREIGN KEY REFERENCES TiposDeHabilidades (IdTipo),
+	Nome			VARCHAR(200) NOT NULL
+);
+
+CREATE TABLE Classes
+(
+	IdClasse	INT PRIMARY KEY IDENTITY,
+	Nome		VARCHAR(200) NOT NULL
+);
+
+CREATE TABLE ClasseHabilidades
+(
+	IdClasse		INT FOREIGN KEY REFERENCES Classes (IdClasse),
+	IdHabilidade	INT FOREIGN KEY REFERENCES Habilidades (IdHabilidade)
+);
+
+CREATE TABLE Personagens
+(
+	IdPersonagem		INT PRIMARY KEY IDENTITY,
+	IdClasse			INT FOREIGN KEY REFERENCES Classes (IdClasse),
+	Nome				VARCHAR(200) NOT NULL,
+	MaxVida				INT NOT NULL,
+	MaxMana				INT NOT NULL,
+	DataAtualizacao		DATE NOT NULL,
+	DataCriacao			DATE NOT NULL
+);
