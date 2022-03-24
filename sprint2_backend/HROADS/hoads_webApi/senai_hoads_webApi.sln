@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "senai_hoads_webApi", "senai_hoads_webApi\senai_hoads_webApi.csproj", "{F6A1D480-84AF-44BF-BDF9-082F720E0E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A1D480-84AF-44BF-BDF9-082F720E0E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A1D480-84AF-44BF-BDF9-082F720E0E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A1D480-84AF-44BF-BDF9-082F720E0E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A1D480-84AF-44BF-BDF9-082F720E0E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89429B6-E1BC-45D3-8BD7-1E0B0740119E}
+	EndGlobalSection
+EndGlobal

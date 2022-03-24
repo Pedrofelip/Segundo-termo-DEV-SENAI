@@ -1,0 +1,31 @@
+--atualizar
+
+Especialidade especialidadeBuscada = ctx.Especialidades.Find(id);
+
+            if ( especialidadeAtualizada != null)
+            {
+                especialidadeBuscada = especialidadeAtualizada;
+            }
+
+            ctx.Especialidades.Update(especialidadeBuscada);
+
+            ctx.SaveChanges();
+
+--buscarporId
+
+return ctx.Especialidades.FirstOrDefault(e => e.IdEspecialidade == id);
+
+--cadastrar
+
+ctx.Especialidades.Add(novaEspecialidade);
+            ctx.SaveChanges();
+
+--deletar
+
+Especialidade especialidade = BuscarPorId(id);
+            ctx.Especialidades.Remove(especialidade);
+            ctx.SaveChanges();
+
+--listar
+
+return ctx.Especialidades.ToList();

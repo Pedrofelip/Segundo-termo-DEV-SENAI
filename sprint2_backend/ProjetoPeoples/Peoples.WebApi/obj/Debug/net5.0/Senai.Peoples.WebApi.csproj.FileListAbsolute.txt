@@ -1,0 +1,67 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\ref\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Peoples.WebApi.StaticWebAssets.Manifest.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Peoples.WebApi.StaticWebAssets.xml
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\scopedcss\bundle\Senai.Peoples.WebApi.styles.css
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.RazorTargetAssemblyInfo.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.csproj.CopyComplete
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\ref\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\Projeto Peoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.genruntimeconfig.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\ref\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Senai.Peoples.WebApi.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Peoples.WebApi.StaticWebAssets.Manifest.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Peoples.WebApi.StaticWebAssets.xml
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\scopedcss\bundle\Senai.Peoples.WebApi.styles.css
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.RazorTargetAssemblyInfo.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.csproj.CopyComplete
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\ref\Senai.Peoples.WebApi.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\Segundo Termo\senai_sprint2_backend\ProjetoPeoples\Senai.Peoples.WebApi\Senai.Peoples.WebApi\obj\Debug\net5.0\Senai.Peoples.WebApi.genruntimeconfig.cache
